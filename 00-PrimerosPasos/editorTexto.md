@@ -34,7 +34,7 @@ Finalizada la descarga, ejecutamos el instalador, seleccionamos las opciones sig
 
 ## En Linux, en la distribución Ubuntu y derivados: 
 
-Nos dirigimos al sitio oficial de Sublime Text. 
+Noss dirigimos al sitio oficial de Sublime Text. 
 Aquí encontrarás las instrucciones para instalarlo https://www.sublimetext.com/docs/3/linux_repositories.html. 
 
 
